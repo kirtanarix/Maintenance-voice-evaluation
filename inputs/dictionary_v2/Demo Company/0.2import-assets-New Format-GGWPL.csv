@@ -1,0 +1,377 @@
+Company,Asset Tag,Serial Number,Status,Item Name,Purchase Date,Supplier,Order Number,Purchase Cost,Warranty Months,Asset Notes,Location,Requestable,Image Filename,Model Name,Model Number,Model Notes,Category,Manufacturer
+GoGreen Warehouses Pvt Ltd,GG-0001,,Ready to Deploy,Fire Extinguisher-ABC-1,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0002,,Ready to Deploy,Fire Extinguisher-ABC-2,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0003,,Ready to Deploy,Fire Extinguisher-ABC-3,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0004,,Ready to Deploy,Fire Extinguisher-ABC-4,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0005,,Ready to Deploy,Fire Extinguisher-ABC-5,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0006,,Ready to Deploy,Fire Extinguisher-ABC-6,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0007,,Ready to Deploy,Fire Extinguisher-ABC-7,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0008,,Ready to Deploy,Fire Extinguisher-ABC-8,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0009,,Ready to Deploy,Fire Extinguisher-ABC-9,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0010,,Ready to Deploy,Fire Extinguisher-ABC-10,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0011,,Ready to Deploy,Fire Extinguisher-ABC-11,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0012,,Ready to Deploy,Fire Extinguisher-ABC-12,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0013,,Ready to Deploy,Fire Extinguisher-ABC-13,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0014,,Ready to Deploy,Fire Extinguisher-ABC-14,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0015,,Ready to Deploy,Fire Extinguisher-ABC-15,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0016,,Ready to Deploy,Fire Extinguisher-ABC-16,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0017,,Ready to Deploy,Fire Extinguisher-ABC-17,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0018,,Ready to Deploy,Fire Extinguisher-ABC-18,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0019,,Ready to Deploy,Fire Extinguisher-ABC-19,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0020,,Ready to Deploy,Fire Extinguisher-ABC-20,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0021,,Ready to Deploy,Fire Extinguisher-ABC-21,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0022,,Ready to Deploy,Fire Extinguisher-ABC-22,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0023,,Ready to Deploy,Fire Extinguisher-ABC-23,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0024,,Ready to Deploy,Fire Extinguisher-ABC-24,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0025,,Ready to Deploy,Fire Extinguisher-ABC-25,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0026,,Ready to Deploy,Fire Extinguisher-ABC-26,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0027,,Ready to Deploy,Fire Extinguisher-ABC-27,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0028,,Ready to Deploy,Fire Extinguisher-ABC-28,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0029,,Ready to Deploy,Fire Extinguisher-ABC-29,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0030,,Ready to Deploy,Fire Extinguisher-ABC-30,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0031,,Ready to Deploy,Fire Extinguisher-ABC-31,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0032,,Ready to Deploy,Fire Extinguisher-ABC-32,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0033,,Ready to Deploy,Fire Extinguisher-ABC-33,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0034,,Ready to Deploy,Fire Extinguisher-ABC-34,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0035,,Ready to Deploy,Fire Extinguisher-ABC-35,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0036,,Ready to Deploy,Fire Extinguisher-ABC-36,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0037,,Ready to Deploy,Fire Extinguisher-ABC-37,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0038,,Ready to Deploy,Fire Extinguisher-ABC-38,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0039,,Ready to Deploy,Fire Extinguisher-ABC-39,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0040,,Ready to Deploy,Fire Extinguisher-ABC-40,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0041,,Ready to Deploy,Fire Extinguisher-ABC-41,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0042,,Ready to Deploy,Fire Extinguisher-ABC-42,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0043,,Ready to Deploy,Fire Extinguisher-ABC-43,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0044,,Ready to Deploy,Fire Extinguisher-ABC-44,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0045,,Ready to Deploy,Fire Extinguisher-ABC-45,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0046,,Ready to Deploy,Fire Extinguisher-ABC-46,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0047,,Ready to Deploy,Fire Extinguisher-ABC-47,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0048,,Ready to Deploy,Fire Extinguisher-ABC-48,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0049,,Ready to Deploy,Fire Extinguisher-ABC-49,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0050,,Ready to Deploy,Fire Extinguisher-ABC-50,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0051,,Ready to Deploy,Fire Extinguisher-ABC-51,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0052,,Ready to Deploy,Fire Extinguisher-ABC-52,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0053,,Ready to Deploy,Fire Extinguisher-ABC-53,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0054,,Ready to Deploy,Fire Extinguisher-ABC-54,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0055,,Ready to Deploy,Fire Extinguisher-ABC-55,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0056,,Ready to Deploy,Fire Extinguisher-ABC-56,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0057,,Ready to Deploy,Fire Extinguisher-ABC-57,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0058,,Ready to Deploy,Fire Extinguisher-ABC-58,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0059,,Ready to Deploy,Fire Extinguisher-ABC-59,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0060,,Ready to Deploy,Fire Extinguisher-ABC-60,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0061,,Ready to Deploy,Fire Extinguisher-ABC-61,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0062,,Ready to Deploy,Fire Extinguisher-ABC-62,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0063,,Ready to Deploy,Fire Extinguisher-ABC-63,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0064,,Ready to Deploy,Fire Extinguisher-ABC-64,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0065,,Ready to Deploy,Fire Extinguisher-ABC-65,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0066,,Ready to Deploy,Fire Extinguisher-ABC-66,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0067,,Ready to Deploy,Fire Extinguisher-ABC-67,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0068,,Ready to Deploy,Fire Extinguisher-ABC-68,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0069,,Ready to Deploy,Fire Extinguisher-ABC-69,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0070,,Ready to Deploy,Fire Extinguisher-ABC-70,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0071,,Ready to Deploy,Fire Extinguisher-ABC-71,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0072,,Ready to Deploy,Fire Extinguisher-ABC-72,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0073,,Ready to Deploy,Fire Extinguisher-ABC-73,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0074,,Ready to Deploy,Fire Extinguisher-ABC-74,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0075,,Ready to Deploy,Fire Extinguisher-ABC-75,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0076,,Ready to Deploy,Fire Extinguisher-ABC-76,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0077,,Ready to Deploy,Fire Extinguisher-ABC-77,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0078,,Ready to Deploy,Fire Extinguisher-ABC-78,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0079,,Ready to Deploy,Fire Extinguisher-ABC-79,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0080,,Ready to Deploy,Fire Extinguisher-ABC-80,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0081,,Ready to Deploy,Fire Extinguisher-ABC-81,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0082,,Ready to Deploy,Fire Extinguisher-ABC-82,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0083,,Ready to Deploy,Fire Extinguisher-ABC-83,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0084,,Ready to Deploy,Fire Extinguisher-ABC-84,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0085,,Ready to Deploy,Fire Extinguisher-ABC-85,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0086,,Ready to Deploy,Fire Extinguisher-ABC-86,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0087,,Ready to Deploy,Fire Extinguisher-ABC-87,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0088,,Ready to Deploy,Fire Extinguisher-ABC-88,,,,,,,Kadi,,,Fire Extinguisher-ABC-GB,Fire Extinguisher_ABC GG,,Fire Extinguisher-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0089,,Ready to Deploy,Fire Bucket-1,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0090,,Ready to Deploy,Fire Bucket-2,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0091,,Ready to Deploy,Fire Bucket-3,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0092,,Ready to Deploy,Fire Bucket-4,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0093,,Ready to Deploy,Fire Bucket-5,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0094,,Ready to Deploy,Fire Bucket-6,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0095,,Ready to Deploy,Fire Bucket-7,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0096,,Ready to Deploy,Fire Bucket-8,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0097,,Ready to Deploy,Fire Bucket-9,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0098,,Ready to Deploy,Fire Bucket-10,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0099,,Ready to Deploy,Fire Bucket-11,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0100,,Ready to Deploy,Fire Bucket-12,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0101,,Ready to Deploy,Fire Bucket-13,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0102,,Ready to Deploy,Fire Bucket-14,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0103,,Ready to Deploy,Fire Bucket-15,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0104,,Ready to Deploy,Fire Bucket-16,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0105,,Ready to Deploy,Fire Bucket-17,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0106,,Ready to Deploy,Fire Bucket-18,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0107,,Ready to Deploy,Fire Bucket-19,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0108,,Ready to Deploy,Fire Bucket-20,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0109,,Ready to Deploy,Fire Bucket-21,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0110,,Ready to Deploy,Fire Bucket-22,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0111,,Ready to Deploy,Fire Bucket-23,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0112,,Ready to Deploy,Fire Bucket-24,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0113,,Ready to Deploy,Fire Bucket-25,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0114,,Ready to Deploy,Fire Bucket-26,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0115,,Ready to Deploy,Fire Bucket-27,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0116,,Ready to Deploy,Fire Bucket-28,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0117,,Ready to Deploy,Fire Bucket-29,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0118,,Ready to Deploy,Fire Bucket-30,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0119,,Ready to Deploy,Fire Bucket-31,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0120,,Ready to Deploy,Fire Bucket-32,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0121,,Ready to Deploy,Fire Bucket-33,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0122,,Ready to Deploy,Fire Bucket-34,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0123,,Ready to Deploy,Fire Bucket-35,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0124,,Ready to Deploy,Fire Bucket-36,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0125,,Ready to Deploy,Fire Bucket-37,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0126,,Ready to Deploy,Fire Bucket-38,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0127,,Ready to Deploy,Fire Bucket-39,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0128,,Ready to Deploy,Fire Bucket-40,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0129,,Ready to Deploy,Fire Bucket-41,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0130,,Ready to Deploy,Fire Bucket-42,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0131,,Ready to Deploy,Fire Bucket-43,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0132,,Ready to Deploy,Fire Bucket-44,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0133,,Ready to Deploy,Fire Bucket-45,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0134,,Ready to Deploy,Fire Bucket-46,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0135,,Ready to Deploy,Fire Bucket-47,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0136,,Ready to Deploy,Fire Bucket-48,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0137,,Ready to Deploy,Fire Bucket-49,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0138,,Ready to Deploy,Fire Bucket-50,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0139,,Ready to Deploy,Fire Bucket-51,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0140,,Ready to Deploy,Fire Bucket-52,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0141,,Ready to Deploy,Fire Bucket-53,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0142,,Ready to Deploy,Fire Bucket-54,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0143,,Ready to Deploy,Fire Bucket-55,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0144,,Ready to Deploy,Fire Bucket-56,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0145,,Ready to Deploy,Fire Bucket-57,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0146,,Ready to Deploy,Fire Bucket-58,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0147,,Ready to Deploy,Fire Bucket-59,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0148,,Ready to Deploy,Fire Bucket-60,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0149,,Ready to Deploy,Fire Bucket-61,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0150,,Ready to Deploy,Fire Bucket-62,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0151,,Ready to Deploy,Fire Bucket-63,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0152,,Ready to Deploy,Fire Bucket-64,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0153,,Ready to Deploy,Fire Bucket-65,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0154,,Ready to Deploy,Fire Bucket-66,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0155,,Ready to Deploy,Fire Bucket-67,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0156,,Ready to Deploy,Fire Bucket-68,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0157,,Ready to Deploy,Fire Bucket-69,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0158,,Ready to Deploy,Fire Bucket-70,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0159,,Ready to Deploy,Fire Bucket-71,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0160,,Ready to Deploy,Fire Bucket-72,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0161,,Ready to Deploy,Fire Bucket-73,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0162,,Ready to Deploy,Fire Bucket-74,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0163,,Ready to Deploy,Fire Bucket-75,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0164,,Ready to Deploy,Fire Bucket-76,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0165,,Ready to Deploy,Fire Bucket-77,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0166,,Ready to Deploy,Fire Bucket-78,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0167,,Ready to Deploy,Fire Bucket-79,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0168,,Ready to Deploy,Fire Bucket-80,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0169,,Ready to Deploy,Fire Bucket-81,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0170,,Ready to Deploy,Fire Bucket-82,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0171,,Ready to Deploy,Fire Bucket-83,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0172,,Ready to Deploy,Fire Bucket-84,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0173,,Ready to Deploy,Fire Bucket-85,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0174,,Ready to Deploy,Fire Bucket-86,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0175,,Ready to Deploy,Fire Bucket-87,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0176,,Ready to Deploy,Fire Bucket-88,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0177,,Ready to Deploy,Fire Bucket-89,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0178,,Ready to Deploy,Fire Bucket-90,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0179,,Ready to Deploy,Fire Bucket-91,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0180,,Ready to Deploy,Fire Bucket-92,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0181,,Ready to Deploy,Fire Bucket-93,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0182,,Ready to Deploy,Fire Bucket-94,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0183,,Ready to Deploy,Fire Bucket-95,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0184,,Ready to Deploy,Fire Bucket-96,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0185,,Ready to Deploy,Fire Bucket-97,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0186,,Ready to Deploy,Fire Bucket-98,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0187,,Ready to Deploy,Fire Bucket-99,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0188,,Ready to Deploy,Fire Bucket-100,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0189,,Ready to Deploy,Fire Bucket-101,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0190,,Ready to Deploy,Fire Bucket-102,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0191,,Ready to Deploy,Fire Bucket-103,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0192,,Ready to Deploy,Fire Bucket-104,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0193,,Ready to Deploy,Fire Bucket-105,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0194,,Ready to Deploy,Fire Bucket-106,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0195,,Ready to Deploy,Fire Bucket-107,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0196,,Ready to Deploy,Fire Bucket-108,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0197,,Ready to Deploy,Fire Bucket-109,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0198,,Ready to Deploy,Fire Bucket-110,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0199,,Ready to Deploy,Fire Bucket-111,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0200,,Ready to Deploy,Fire Bucket-112,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0201,,Ready to Deploy,Fire Bucket-113,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0202,,Ready to Deploy,Fire Bucket-114,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0203,,Ready to Deploy,Fire Bucket-115,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0204,,Ready to Deploy,Fire Bucket-116,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0205,,Ready to Deploy,Fire Bucket-117,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0206,,Ready to Deploy,Fire Bucket-118,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0207,,Ready to Deploy,Fire Bucket-119,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0208,,Ready to Deploy,Fire Bucket-120,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0209,,Ready to Deploy,Fire Bucket-121,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0210,,Ready to Deploy,Fire Bucket-122,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0211,,Ready to Deploy,Fire Bucket-123,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0212,,Ready to Deploy,Fire Bucket-124,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0213,,Ready to Deploy,Fire Bucket-125,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0214,,Ready to Deploy,Fire Bucket-126,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0215,,Ready to Deploy,Fire Bucket-127,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0216,,Ready to Deploy,Fire Bucket-128,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0217,,Ready to Deploy,Fire Bucket-129,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0218,,Ready to Deploy,Fire Bucket-130,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0219,,Ready to Deploy,Fire Bucket-131,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0220,,Ready to Deploy,Fire Bucket-132,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0221,,Ready to Deploy,Fire Bucket-133,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0222,,Ready to Deploy,Fire Bucket-134,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0223,,Ready to Deploy,Fire Bucket-135,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0224,,Ready to Deploy,Fire Bucket-136,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0225,,Ready to Deploy,Fire Bucket-137,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0226,,Ready to Deploy,Fire Bucket-138,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0227,,Ready to Deploy,Fire Bucket-139,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0228,,Ready to Deploy,Fire Bucket-140,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0229,,Ready to Deploy,Fire Bucket-141,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0230,,Ready to Deploy,Fire Bucket-142,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0231,,Ready to Deploy,Fire Bucket-143,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0232,,Ready to Deploy,Fire Bucket-144,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0233,,Ready to Deploy,Fire Bucket-145,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0234,,Ready to Deploy,Fire Bucket-146,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0235,,Ready to Deploy,Fire Bucket-147,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0236,,Ready to Deploy,Fire Bucket-148,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0237,,Ready to Deploy,Fire Bucket-149,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0238,,Ready to Deploy,Fire Bucket-150,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0239,,Ready to Deploy,Fire Bucket-151,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0240,,Ready to Deploy,Fire Bucket-152,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0241,,Ready to Deploy,Fire Bucket-153,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0242,,Ready to Deploy,Fire Bucket-154,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0243,,Ready to Deploy,Fire Bucket-155,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0244,,Ready to Deploy,Fire Bucket-156,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0245,,Ready to Deploy,Fire Bucket-157,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0246,,Ready to Deploy,Fire Bucket-158,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0247,,Ready to Deploy,Fire Bucket-159,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0248,,Ready to Deploy,Fire Bucket-160,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0249,,Ready to Deploy,Fire Bucket-161,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0250,,Ready to Deploy,Fire Bucket-162,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0251,,Ready to Deploy,Fire Bucket-163,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0252,,Ready to Deploy,Fire Bucket-164,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0253,,Ready to Deploy,Fire Bucket-165,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0254,,Ready to Deploy,Fire Bucket-166,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0255,,Ready to Deploy,Fire Bucket-167,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0256,,Ready to Deploy,Fire Bucket-168,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0257,,Ready to Deploy,Fire Bucket-169,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0258,,Ready to Deploy,Fire Bucket-170,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0259,,Ready to Deploy,Fire Bucket-171,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0260,,Ready to Deploy,Fire Bucket-172,,,,,,,Kadi,,,Fire Bucket-GG,Fire Bucket GG,,Fire Bucket-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0261,,Ready to Deploy,Fire Bucket Stand-1,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0262,,Ready to Deploy,Fire Bucket Stand-2,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0263,,Ready to Deploy,Fire Bucket Stand-3,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0264,,Ready to Deploy,Fire Bucket Stand-4,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0265,,Ready to Deploy,Fire Bucket Stand-5,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0266,,Ready to Deploy,Fire Bucket Stand-6,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0267,,Ready to Deploy,Fire Bucket Stand-7,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0268,,Ready to Deploy,Fire Bucket Stand-8,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0269,,Ready to Deploy,Fire Bucket Stand-9,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0270,,Ready to Deploy,Fire Bucket Stand-10,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0271,,Ready to Deploy,Fire Bucket Stand-11,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0272,,Ready to Deploy,Fire Bucket Stand-12,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0273,,Ready to Deploy,Fire Bucket Stand-13,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0274,,Ready to Deploy,Fire Bucket Stand-14,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0275,,Ready to Deploy,Fire Bucket Stand-15,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0276,,Ready to Deploy,Fire Bucket Stand-16,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0277,,Ready to Deploy,Fire Bucket Stand-17,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0278,,Ready to Deploy,Fire Bucket Stand-18,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0279,,Ready to Deploy,Fire Bucket Stand-19,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0280,,Ready to Deploy,Fire Bucket Stand-20,,,,,,,Kadi,,,Fire Bucket Stand-GG,Fire Bucket Stand GG,,Fire Bucket Stand-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0281,,Ready to Deploy,Lock-1,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0282,,Ready to Deploy,Lock-2,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0283,,Ready to Deploy,Lock-3,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0284,,Ready to Deploy,Lock-4,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0285,,Ready to Deploy,Lock-5,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0286,,Ready to Deploy,Lock-6,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0287,,Ready to Deploy,Lock-7,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0288,,Ready to Deploy,Lock-8,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0289,,Ready to Deploy,Lock-9,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0290,,Ready to Deploy,Lock-10,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0291,,Ready to Deploy,Lock-11,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0292,,Ready to Deploy,Lock-12,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0293,,Ready to Deploy,Lock-13,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0294,,Ready to Deploy,Lock-14,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0295,,Ready to Deploy,Lock-15,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0296,,Ready to Deploy,Lock-16,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0297,,Ready to Deploy,Lock-17,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0298,,Ready to Deploy,Lock-18,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0299,,Ready to Deploy,Lock-19,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0300,,Ready to Deploy,Lock-20,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0301,,Ready to Deploy,Lock-21,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0302,,Ready to Deploy,Lock-22,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0303,,Ready to Deploy,Lock-23,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0304,,Ready to Deploy,Lock-24,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0305,,Ready to Deploy,Lock-25,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0306,,Ready to Deploy,Lock-26,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0307,,Ready to Deploy,Lock-27,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0308,,Ready to Deploy,Lock-28,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0309,,Ready to Deploy,Lock-29,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0310,,Ready to Deploy,Lock-30,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0311,,Ready to Deploy,Lock-31,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0312,,Ready to Deploy,Lock-32,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0313,,Ready to Deploy,Lock-33,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0314,,Ready to Deploy,Lock-34,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0315,,Ready to Deploy,Lock-35,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0316,,Ready to Deploy,Lock-36,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0317,,Ready to Deploy,Lock-37,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0318,,Ready to Deploy,Lock-38,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0319,,Ready to Deploy,Lock-39,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0320,,Ready to Deploy,Lock-40,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0321,,Ready to Deploy,Lock-41,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0322,,Ready to Deploy,Lock-42,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0323,,Ready to Deploy,Lock-43,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0324,,Ready to Deploy,Lock-44,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0325,,Ready to Deploy,Lock-45,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0326,,Ready to Deploy,Lock-46,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0327,,Ready to Deploy,Lock-47,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0328,,Ready to Deploy,Lock-48,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0329,,Ready to Deploy,Lock-49,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0330,,Ready to Deploy,Lock-50,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0331,,Ready to Deploy,Lock-51,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0332,,Ready to Deploy,Lock-52,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0333,,Ready to Deploy,Lock-53,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0334,,Ready to Deploy,Lock-54,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0335,,Ready to Deploy,Lock-55,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0336,,Ready to Deploy,Lock-56,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0337,,Ready to Deploy,Lock-57,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0338,,Ready to Deploy,Lock-58,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0339,,Ready to Deploy,Lock-59,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0340,,Ready to Deploy,Lock-60,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0341,,Ready to Deploy,Lock-61,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0342,,Ready to Deploy,Lock-62,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0343,,Ready to Deploy,Lock-63,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0344,,Ready to Deploy,Lock-64,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0345,,Ready to Deploy,Lock-65,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0346,,Ready to Deploy,Lock-66,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0347,,Ready to Deploy,Lock-67,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0348,,Ready to Deploy,Lock-68,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0349,,Ready to Deploy,Lock-69,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0350,,Ready to Deploy,Lock-70,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0351,,Ready to Deploy,Lock-71,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0352,,Ready to Deploy,Lock-72,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0353,,Ready to Deploy,Lock-73,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0354,,Ready to Deploy,Lock-74,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0355,,Ready to Deploy,Lock-75,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0356,,Ready to Deploy,Lock-76,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0357,,Ready to Deploy,Lock-77,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0358,,Ready to Deploy,Lock-78,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0359,,Ready to Deploy,Lock-79,,Godrej,,,,,Kadi,,,Lock-GG,Lock GG,,Lock-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0360,,Ready to Deploy,Stitching Machine-1,,,,,,,Kadi,,,Stitching Machine-GG,Stitching Machine GG,,Machine-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0361,,Ready to Deploy,Stitching Machine-2,,,,,,,Kadi,,,Stitching Machine-GG,Stitching Machine GG,,Machine-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0362,,Ready to Deploy,Moisture Meter-1,,Sunrise Industries,,,,,Kadi,,,Moisture Meter-GG,Moisture Meter GG,,Moisture Meter-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0363,,Ready to Deploy,Moisture Meter-2,,Sunrise Industries,,,,,Kadi,,,Moisture Meter-GG,Moisture Meter GG,,Moisture Meter-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0364,,Ready to Deploy,Moisture Meter-3,,Innovative Instument,,,,,Kadi,,,Moisture Meter-GG,Moisture Meter GG,,Moisture Meter-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0365,,Ready to Deploy,Moisture Meter-4,,Innovative Instument,,,,,Kadi,,,Moisture Meter-GG,Moisture Meter GG,,Moisture Meter-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0366,,Ready to Deploy,Printer,,Brother,,,,,Kadi,,,Printer-GG,Printer GG,,Printer-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0367,,Ready to Deploy,Pocket Scale,,Atoms,,,,,Kadi,,,Pocket Scale-GG,Pocket Scale GG,,Weigh Scale-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0368,,Ready to Deploy,Weight Scale,,Eagle,,,,,Kadi,,,Weight Scale-GG,Weight Scale GG,,Weigh Scale-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0369,,Ready to Deploy,Hectoliter Weight,,Kartar,,,,,Kadi,,,Hectoliter Weight-GG,Hectoliter Weight GG,,Weigh Scale-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0370,,Ready to Deploy,Sieves,,Kartar,,,,,Kadi,,,Sieves-GG,Sieves GG,,Sieves-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0371,,Ready to Deploy,Tablet,,Samsung,,,,,Kadi,,,Tablet-GG,Tablet GG,,Tablet-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0372,,Ready to Deploy,Grain Sample Divider,,Kartar,,,,,Kadi,,,Grain Sample Divider-GG,Grain Sample Divider GG,,Sample Divider-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0373,,Ready to Deploy,Weighting Scale BT,,Essay,,,,,Kadi,,,Weighting Scale-BT,Weighting Scale BT,,Weigh Scale-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0374,,Ready to Deploy,Indosaw MM,,Osaw,,,,,Kadi,,,Indosaw MM-GG,Indosaw MM GG,,Moisture Meter-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0375,,Ready to Deploy,Laptop,,,,,,,Kadi,,,Laptop-GG,Laptop GG,,Laptop-GG,GGWPL
+GoGreen Warehouses Pvt Ltd,GG-0376,,Ready to Deploy,Desktop,,,,,,,Kadi,,,Desktop-GG,Desktop GG,,PC-GG,GGWPL

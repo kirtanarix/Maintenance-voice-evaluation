@@ -1,0 +1,6 @@
+Company,Asset Tag,Serial Number,Status,Item Name,Purchase Date,Supplier,Order Number,Purchase Cost,Warranty Months,Asset Notes,Location,Requestable,Image Filename,Model Name,Model Number,Model Notes,Category,Manufacturer
+RJ Infra,RJI-0001,1,Ready to Deploy,Central Mix Pump-RJI,,,,,,,Rajkot,,,Central Mix Pump-RJI,TMP-001,,Concrete Equipment-RJI,Kirloskar-RJI
+RJ Infra,RJI-0002,2,Ready to Deploy,Loader-RJI,,,,,,,Rajkot,,,Case 770-RJI,4R1040TC BS III,,Material Handling Equipment-RJI,Kirloskar Oil Engines Ltd-RJI
+RJ Infra,RJI-0003,3,Ready to Deploy,Concrete Pump-RJI-1,,,,,,,Rajkot,,,BSA-RJI,1405D,,Concrete Equipment-RJI,Putzmeister-RJI
+RJ Infra,RJI-0004,4,Ready to Deploy,Concrete Pump-RJI-2,,,,,,,Rajkot,,,BSA-RJI,1405D,,Concrete Equipment-RJI,Putzmeister-RJI
+RJ Infra,RJI-0005,5,Ready to Deploy,Concrete Pump-RJI-3,,,,,,,Rajkot,,,Concrete Pump-RJI,CP-100,,Concrete Equipment-RJI,Putzmeister-RJI
