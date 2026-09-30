@@ -456,6 +456,7 @@ def build(data):
                                     {"concept_id": key[0], "phase3_variant_ids": sorted(v["variant_id"] for v in vs)}))
     # A shared phrase is insufficient to decide concept-vs-variant or part/assembly.
     proposed = [c for c in concept_candidates if c["status"] == "proposed"]
+    variant_observation_ids = set().union(*(set(v["supporting_record_ids"]) for v in variant_candidates)) if variant_candidates else set()
     for i, left in enumerate(proposed):
         for right in proposed[i + 1:]:
             if phrase(left["proposed_label"], right["proposed_label"]) or phrase(right["proposed_label"], left["proposed_label"]):
@@ -540,9 +541,13 @@ def build(data):
         "phase3_baseline": {"concepts": len(concepts), "variants": len(data["variants"]),
                             "represented_observations": len(baseline), "counts": data["manifest"]["output_record_counts"]},
         "total_phase1_observations": len(records), "phase1_record_kinds": dict(sorted(Counter(r["record_kind"] for r in records.values()).items())),
+        "total_phase1_asset_observations": sum(r["record_kind"] == "asset" for r in records.values()),
         "observations_represented_by_existing_concepts": len(existing_ids),
         "observations_with_proposed_concept_coverage": len(proposed_ids),
         "observations_still_unresolved": len(unresolved_ids),
+        "asset_observations_with_existing_concept_coverage": sum(records[r]["record_kind"] == "asset" for r in existing_ids),
+        "asset_observations_with_proposed_concept_coverage": sum(records[r]["record_kind"] == "asset" for r in proposed_ids),
+        "asset_observations_not_covered": sum(records[r]["record_kind"] == "asset" for r in unresolved_ids),
         "coverage_definition": "Unique observation IDs, not physical assets. Existing includes baseline plus explicitly assessed exact-name/specification matches. Proposed excludes existing coverage and is conditional on review. Unresolved includes source-only non-asset records; it is not the Phase 1 unresolved record-kind count.",
         "coverage_record_ids": {"existing": sorted(existing_ids), "proposed_incremental": sorted(proposed_ids),
                                 "unresolved_or_source_only": sorted(unresolved_ids)},
@@ -554,6 +559,9 @@ def build(data):
                              "review_only_concepts": sum(c["status"] == "needs_review" for c in concept_candidates),
                              "rejected_as_concepts": sum(c["status"] == "rejected_as_concept" for c in concept_candidates),
                              "proposed_new_variants": len(variant_candidates), "review_queue_items": len(queue)},
+        "proposed_variant_observation_ids": sorted(variant_observation_ids),
+        "observations_with_proposed_variant_coverage": len(variant_observation_ids),
+        "asset_observations_with_proposed_variant_coverage": sum(records[r]["record_kind"] == "asset" for r in variant_observation_ids),
         "confidence_counts": {"concept_candidates": dict(sorted(Counter(c["confidence"] for c in concept_candidates).items())),
                               "variant_candidates": dict(sorted(Counter(v["confidence"] for v in variant_candidates).items()))},
         "review_counts_by_type": dict(sorted(Counter(q["review_type"] for q in queue).items())),
@@ -658,6 +666,15 @@ def validate(data, result):
     require(sum(map(len, parts)) == len(set().union(*parts)) == len(records) and set().union(*parts) == records.keys(), "Coverage is not a disjoint complete partition")
     for key, part in zip(("observations_represented_by_existing_concepts", "observations_with_proposed_concept_coverage", "observations_still_unresolved"), parts):
         require(a[key] == len(part), "Coverage count mismatch")
+    asset_parts = [sum(records[r]["record_kind"] == "asset" for r in part) for part in parts]
+    require(a["asset_observations_with_existing_concept_coverage"] == asset_parts[0]
+            and a["asset_observations_with_proposed_concept_coverage"] == asset_parts[1]
+            and a["asset_observations_not_covered"] == asset_parts[2]
+            and sum(asset_parts) == a["total_phase1_asset_observations"], "Asset coverage count mismatch")
+    variant_ids = set(a["proposed_variant_observation_ids"])
+    require(variant_ids <= records.keys() and a["proposed_variant_observation_ids"] == sorted(variant_ids), "Invalid proposed variant coverage")
+    require(a["observations_with_proposed_variant_coverage"] == len(variant_ids), "Variant coverage count mismatch")
+    require(a["asset_observations_with_proposed_variant_coverage"] == sum(records[r]["record_kind"] == "asset" for r in variant_ids), "Asset variant coverage mismatch")
     baseline = set().union(*(set(c["source_record_ids"]) for c in concepts.values()))
     require(baseline <= parts[0] and not ((parts[0] | parts[1]) - baseline) & data["blocked"], "Coverage silently resolves a conflict")
     for row in a["counts_by_concept"]:
@@ -714,8 +731,14 @@ def make_report(data, result):
             "This phase produces coverage assessments and evidence-backed proposals only. It does not create a final dictionary, canonical concepts, aliases, industry associations or physical-asset merges. Every proposal requires review.", "",
             f"Analyzed all {len(data['records']):,} Phase 1 observations against {len(data['concepts'])} existing concepts and {len(data['variants'])} existing variants. The Phase 3 baseline represents {a['phase3_baseline']['represented_observations']:,} observations, not unique physical assets.", "",
             "| Measure | Count |", "|---|---:|",
+            f"| Phase 1 asset observations | {a['total_phase1_asset_observations']:,} |",
             f"| Existing-concept assessed coverage | {a['observations_represented_by_existing_concepts']:,} |",
             f"| Incremental proposed-concept coverage | {a['observations_with_proposed_concept_coverage']:,} |",
+            f"| Asset observations with existing-concept coverage | {a['asset_observations_with_existing_concept_coverage']:,} |",
+            f"| Asset observations with proposed-concept coverage | {a['asset_observations_with_proposed_concept_coverage']:,} |",
+            f"| Asset observations not covered | {a['asset_observations_not_covered']:,} |",
+            f"| Observations with proposed variant coverage | {a['observations_with_proposed_variant_coverage']:,} |",
+            f"| Asset observations with proposed variant coverage | {a['asset_observations_with_proposed_variant_coverage']:,} |",
             f"| Not covered / unresolved / source-only | {a['observations_still_unresolved']:,} |",
             f"| Proposed new concepts | {counts['proposed_new_concepts']:,} |",
             f"| Proposed new variants of existing concepts | {counts['proposed_new_variants']:,} |",
@@ -765,7 +788,7 @@ def make_report(data, result):
              "## Files and reproduction", "",
              "Created only phase4_concept_candidates.jsonl, phase4_variant_candidates.jsonl, phase4_review_queue.jsonl, phase4_coverage_analysis.json, phase4_coverage_report.md and the standalone standard-library build_phase4.py in this directory.", "",
              "```powershell", "python -B -X utf8 outputs/dictionary_v2/phase4_coverage/build_phase4.py --verify", "```", "",
-             "The builder refuses to overwrite existing artifacts. It does not import or run the earlier builders and does not install packages or use APIs, embeddings or LLM semantic decisions. These proposals do not constitute a completed final dictionary.", ""]
+             "The builder creates outputs once; --refresh is available only for a targeted rebuild of the existing Phase 4 outputs after a builder fix, while --verify is read-only. It does not import or run the earlier builders and does not install packages or use APIs, embeddings or LLM semantic decisions. These proposals do not constitute a completed final dictionary.", ""]
     return "\n".join(rows).encode("utf-8")
 
 
@@ -786,9 +809,10 @@ def serialize(data, result, test_results):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--verify", action="store_true")
+    parser.add_argument("--refresh", action="store_true", help="Rebuild only the existing Phase 4 outputs after a builder fix")
     args = parser.parse_args()
     require(HERE == ROOT / "outputs/dictionary_v2/phase4_coverage", "Output location must remain Phase 4-specific")
-    if not args.verify:
+    if not args.verify and not args.refresh:
         require(not any((HERE / name).exists() for name in OUTPUTS), "Existing output; use --verify")
     before = snapshot()
     print("Protected per-file baseline captured. Reading Phase 1/2/3 without running their builders.", flush=True)
@@ -811,7 +835,7 @@ def main():
             require((HERE / name).read_bytes() == content, "Saved output differs: " + name)
     else:
         for name, content in bytes_first.items():
-            with (HERE / name).open("xb") as stream:
+            with (HERE / name).open("wb") as stream:
                 stream.write(content)
     saved = {"concepts": list(lines(HERE / OUTPUTS[0])), "variants": list(lines(HERE / OUTPUTS[1])),
              "queue": list(lines(HERE / OUTPUTS[2])), "analysis": load_json(HERE / OUTPUTS[3])}
