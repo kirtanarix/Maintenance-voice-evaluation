@@ -29,3 +29,9 @@ temp/
 # Test/cache
 .pytest_cache/
 .mypy_cache/
+
+# Project data - keep locally, do not upload to GitHub
+audio/
+audio_backup/
+inputs/
+outputs/
